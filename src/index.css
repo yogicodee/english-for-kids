@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400;500;600;700&family=JetBrains+Mono:wght@700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Fredoka", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+}
+
+@layer base {
+  body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    @apply bg-[#FFEDD5] text-[#2D2926] overflow-x-hidden;
+    background: radial-gradient(circle at top right, #FFEDD5, #FFD6A5, #CAFFBF);
+    min-height: 100vh;
+  }
+}

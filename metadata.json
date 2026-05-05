@@ -1,0 +1,12 @@
+{
+  "name": "LinguaLand: English for Kids",
+  "description": "A fun and colorful English learning adventure for elementary school students. Learn simple words and sentences through magic quests and play with an AI coach!",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "Kid-friendly Gamification",
+    "Basic English Vocab & Grammar",
+    "Encouraging AI Coach"
+  ]
+}
