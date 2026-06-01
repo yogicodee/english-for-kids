@@ -3,7 +3,7 @@
 LinguaLand is a magical place where elementary school kids learn English through fun quests, sparkling rewards, and a helpful Robot Teacher! 🚀
 
 # Preview
-<img width="605" height="629" alt="image" src="https://github.com/user-attachments/assets/12594c68-d624-4043-bb96-416f5c365c3a" />
+<p align="center"><img width="605" height="629" alt="image" src="https://github.com/user-attachments/assets/12594c68-d624-4043-bb96-416f5c365c3a" /></p>
 
 
 ## 🌟 Magic Features
