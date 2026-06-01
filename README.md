@@ -4,7 +4,7 @@ LinguaLand is a magical place where elementary school kids learn English through
 
 # Preview Application
 <p align="center"><img width="605" height="629" alt="image" src="https://github.com/user-attachments/assets/12594c68-d624-4043-bb96-416f5c365c3a" /></p>
-<img width="605" height="637" alt="image" src="https://github.com/user-attachments/assets/d0ee40e8-72b0-4cba-a6ee-6f65a1562038" />
+<p align="center"><img width="605" height="637" alt="image" src="https://github.com/user-attachments/assets/d0ee40e8-72b0-4cba-a6ee-6f65a1562038" /></p>
 
 
 
